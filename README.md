@@ -43,7 +43,7 @@ mini-agent/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/your-username/mini-agent.git
+git clone https://github.com/Yitong806/mini-agent.git
 cd mini-agent
 pip install -e .
 ```
